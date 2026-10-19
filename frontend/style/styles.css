@@ -70,5 +70,12 @@ nav> a{
 color: var(--cor1);
 border-radius: 5px;
 text-decoration: none;
-padding: 85px;
+padding-block: 10px;
+font-weight: bold;
+transition-duration: 0.5s;
 }   
+
+nav> a:hover{
+background-color: #2251d4;
+
+}
